@@ -1,0 +1,16 @@
+    body {
+    background-color: #F9DBBB;}
+
+    hr{
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom:  5px dotted grey;
+        width: 10%;
+    }
+    h1 , h2 {
+        color: #9DC08B;
+    }
+    h2 {
+        text-decoration: underline;
+    }
